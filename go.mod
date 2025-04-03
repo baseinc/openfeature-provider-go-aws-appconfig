@@ -1,4 +1,4 @@
-module github.com/Arthur1/openfeature-provider-go-aws-appconfig
+module github.com/baseinc/openfeature-provider-go-aws-appconfig
 
 go 1.22.0
 
